@@ -1,2 +1,3 @@
-value = int(input())
-print(value)
+value = int(input(5))
+print(5)
+
